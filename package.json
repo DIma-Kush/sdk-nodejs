@@ -1,0 +1,25 @@
+{
+  "name": "sdk-nodejs",
+  "version": "1.0.0",
+  "description": "sdk-nodejs",
+  "main": "lib/liqpay.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DIma-Kush/sdk-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DIma-Kush/sdk-nodejs/issues"
+  },
+  "homepage": "https://github.com/DIma-Kush/sdk-nodejs#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
